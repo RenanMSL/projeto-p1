@@ -14,7 +14,7 @@
 ## Divisão do trabalho:
  - Movimentação: Lucas G.
  - Colisão:
- - Items:
+ - Items: Renan MSL.
  - Inimigos: 
 
 ## Conceitos utilizados:
